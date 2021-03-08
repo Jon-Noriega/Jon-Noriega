@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋🏼, I'm Jon Noriega</h1>
 <h3 align="center">Full-Stack Software Engineer with a passion for fostering connection & empowering people.</h3>
 
-- 🔭 I’m currently working on [freeAGENT](https://github.com/Jon-Noriega/project_SWIPE)
+- 🔭 I’m currently working on deploying [freeAGENT](https://github.com/Jon-Noriega/project_SWIPE) to the App Store.
 
 - 🌱 I’m currently learning **Python**
 
