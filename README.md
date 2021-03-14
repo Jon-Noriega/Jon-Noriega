@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on deploying [freeAGENT](https://github.com/Jon-Noriega/freeAGENT_FE) to the App Store.
 
-- 🌱 I’m currently learning **Cypress and TypeScript**
+- 🌱 I’m looking forward to learning **Cypress and TypeScript**
 
 - 💬 Ask me about **Social Networks & Instant Messaging**
 
