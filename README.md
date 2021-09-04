@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋🏼, I'm Jon Noriega</h1>
 <h3 align="center">Full-Stack Software Engineer with a passion for fostering connection & empowering people.</h3>
 
-- 🔭 After 5 rejections and 8 submissions, I'm happy to announce that [freeAGENT](https://github.com/Jon-Noriega/freeAGENT_FE) is available for download on the App Store! Our next update will include new features and tools that will remimagine the way job candidates showcase their origin/career journeys. 
+- 🔭 After 5 rejections and 8 submissions, I'm happy to announce that [freeAGENT](https://github.com/Jon-Noriega/freeAGENT_FE) is available for download on the App Store! Our next update will include new features that will reimagine the way job candidates showcase their origin stories & career journeys. 
 
 - 🌱 I’m looking forward to learning **Swift and Cypress**
 
