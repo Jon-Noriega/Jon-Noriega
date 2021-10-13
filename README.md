@@ -7,9 +7,9 @@
 
 - 💬 Ask me about **Social Networks & Instant Messaging**
 
-- 📫 How to reach me **Noriega331@gmail.com**
+- 📫 How to reach me: **Noriega331@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://learn.co/Johnny/resume)
+- 📄 Know about my experiences: [Resume](https://learn.co/Johnny/resume)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
