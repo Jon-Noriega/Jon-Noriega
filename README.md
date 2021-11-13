@@ -3,8 +3,6 @@
 
 - 🔭 5 rejections and 8 submissions later, I'm happy to announce that [freeAGENT](https://apps.apple.com/us/app/freeagent-io/id1559473000) is available for download on the App Store! Our next update will include new features that will reimagine the way job candidates showcase their origin stories & career journeys. 
 
-- 🌱 I’m looking forward to learning **Swift and Cypress**
-
 - 💬 Ask me about **Social Networks & Instant Messaging**
 
 - 📫 How to reach me: **Noriega331@gmail.com**
