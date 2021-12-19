@@ -3,7 +3,7 @@
 
 - 🔭 5 rejections and 8 submissions later, I'm happy to announce that [freeAGENT](https://apps.apple.com/us/app/freeagent-io/id1559473000) is available for download on the App Store! Our next update will include new features that will reimagine the way job candidates showcase their origin stories & career journeys. 
 
-<a href="https://apps.apple.com/us/app/freeagent-io/id1559473000?itsct=apps_box_badge&amp;itscg=30200" style="display: inline-block; overflow: hidden; border-radius: 13px; width: 250px; height: 83px;"><img src="https://tools.applemediaservices.com/api/badges/download-on-the-app-store/black/en-us?size=250x83&amp;releaseDate=1625616000&h=21c311ac2bf46f56389e5b11fbb63230" alt="Download on the App Store" style="border-radius: 13px; width: 250px; height: 83px;"></a>
+<a href="https://apps.apple.com/us/app/freeagent-io/id1559473000?itsct=apps_box_badge&amp;itscg=30200" style="display: inline-block; overflow: hidden; border-radius: 13px; width: 250px; height: 83px;"><img src="https://tools.applemediaservices.com/api/badges/download-on-the-app-store/black/en-us?size=250x83&amp;releaseDate=1625616000&h=21c311ac2bf46f56389e5b11fbb63230" alt="Download on the App Store" style="border-radius: 13px; width: 200px; height: 50px;"></a>
 
 - 💬 Ask me about **Social Networks & Instant Messaging**
 
