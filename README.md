@@ -9,8 +9,6 @@
 
 - 📫 How to reach me: **Noriega331@gmail.com**
 
-- 📄 Know about my experiences: [Resume](https://learn.co/Johnny/resume)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/jonathannoriega" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="jon noriega" height="30" width="40" /></a>
