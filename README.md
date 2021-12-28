@@ -9,11 +9,11 @@
 
 - 📫 How to reach me: **Noriega331@gmail.com**
 <br></br>
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Let's Connect</h3>
 <a href="https://www.linkedin.com/in/jonathannoriega" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="jon noriega" height="30" width="40" /></a>
 <a href="https://www.codewars.com/users/Johnny%20Ocean" target="blank"><img align="center" src="https://www.codewars.com/users/Johnny%20Ocean/badges/micro" alt="jon noriega" /></a>
 <br></br>
-<h3 align="left">Tech Stack:</h3>
+<h3 align="left">Tech Stack</h3>
 <p align="left">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
   <a href="https://reactnative.dev/" target="_blank"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a>
