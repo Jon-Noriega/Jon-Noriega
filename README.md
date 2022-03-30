@@ -8,11 +8,6 @@
 
 - 📫 How to reach me: **Noriega331@gmail.com**
 
-<h2 align="left">🤝🏼Let's Connect</h2>
-
-<a href="https://www.linkedin.com/in/jonathannoriega" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="jon noriega" height="30" width="40" /></a>
-<a href="https://www.codewars.com/users/Johnny%20Ocean" target="blank"><img align="center" src="https://www.codewars.com/users/Johnny%20Ocean/badges/micro" alt="jon noriega" /></a>
-
 <h2 align="left">⚒️ Tech Stack</h2>
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-blue?logo=JavaScript&label=Code)
@@ -34,3 +29,7 @@
 ![Jest](https://img.shields.io/badge/Jest-red?logo=Jest&label=Testing)
 ![TestingLibrary](https://img.shields.io/badge/TestingLibrary-red?logo=TestingLibrary&label=Testing)
 
+<h2 align="left">🤝🏼Let's Connect</h2>
+
+<a href="https://www.linkedin.com/in/jonathannoriega" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="jon noriega" height="30" width="40" /></a>
+<a href="https://www.codewars.com/users/Johnny%20Ocean" target="blank"><img align="center" src="https://www.codewars.com/users/Johnny%20Ocean/badges/micro" alt="jon noriega" /></a>
