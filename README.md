@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋🏼, I'm Jon Noriega</h1>
-<h3 align="center">Full Stack Software Engineer with a passion for problem-solving, designing user-friendly interfaces & shipping software that empowers others.</h3>
+<h3 align="center">I'm a Software Engineer with a passion for problem-solving, designing user-friendly interfaces, and shipping software that empowers others.</h3>
 
 - 🎉 5 rejections and 8 submissions later, I'm happy to announce that [freeAGENT](https://apps.apple.com/us/app/freeagent-io/id1559473000) is available for download on the App Store! Our next update will include new features that will reimagine the way job candidates showcase their origin stories & career journeys. 
 
