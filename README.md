@@ -6,8 +6,6 @@
 
 <a href="https://apps.apple.com/us/app/freeagent-io/id1559473000?itsct=apps_box_badge&amp;itscg=30200" style="display: inline-block; overflow: hidden; border-radius: 13px; width: 250px; height: 83px;"><img src="https://tools.applemediaservices.com/api/badges/download-on-the-app-store/black/en-us?size=250x83&amp;releaseDate=1625616000&h=21c311ac2bf46f56389e5b11fbb63230" alt="Download on the App Store" style="border-radius: 13px; width: 200px; height: 50px;"></a>
 
-- 📫 How to reach me: **Noriega331@gmail.com**
-
 <h2 align="left">⚒️ Tech Stack</h2>
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-blue?logo=JavaScript&label=Code)
