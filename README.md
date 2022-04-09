@@ -11,7 +11,6 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-blue?logo=JavaScript&label=Code)
 ![TypeScript](https://img.shields.io/badge/TypeScript-blue?logo=TypeScript&label=Code)
 ![C#](https://img.shields.io/badge/CSharp-blue?logo=CSharp&label=Code)
-![Ruby](https://img.shields.io/badge/Ruby-blue?logo=Ruby&label=Code)
 ![React](https://img.shields.io/badge/React-blue?logo=React&label=Code)
 ![ReactNative](https://img.shields.io/badge/ReactNative-blue?logo=React&label=Code)
 ![RubyOnRails](https://img.shields.io/badge/RoR-blue?logo=RubyOnRails&label=Code)
