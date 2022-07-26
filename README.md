@@ -2,7 +2,7 @@
 
 <h3 align="center">I'm a Software Engineer with a passion for problem-solving, designing user-friendly interfaces, and shipping software that empowers others.</h3>
 
-- 🎉 5 rejections & 8 submissions later, I'm happy to announce that [freeAGENT](https://apps.apple.com/us/app/freeagent-io/id1559473000) is available for download on the App Store! Our next update will include new features that will reimagine the way job candidates showcase their origin stories and career journeys. 
+- 🎉 5 rejections and 8 submissions later, I'm happy to announce that [freeAGENT](https://apps.apple.com/us/app/freeagent-io/id1559473000) is available for download on the App Store! Our next update will include new features that will reimagine the way job candidates showcase their origin stories and career journeys. 
 
 <a href="https://apps.apple.com/us/app/freeagent-io/id1559473000?itsct=apps_box_badge&amp;itscg=30200" style="display: inline-block; overflow: hidden; border-radius: 13px;"><img src="https://tools.applemediaservices.com/api/badges/download-on-the-app-store/black/en-us" alt="Download on the App Store" style="border-radius: 13px; width: 1000px; height: 40px;"></a>
 
